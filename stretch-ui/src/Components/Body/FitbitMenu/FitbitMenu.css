@@ -1,0 +1,13 @@
+.fitbit-menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 75%;
+}
+
+.style-img {
+  border-radius: 8px;
+  width: 486px;
+  height: 308px;
+  margin-right: 120px;
+}

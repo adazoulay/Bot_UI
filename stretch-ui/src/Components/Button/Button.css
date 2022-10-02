@@ -1,0 +1,28 @@
+.row-button,
+.col-button {
+  background: #4ab2cc;
+  border-radius: 10px;
+  border-width: 0;
+  color: antiquewhite;
+}
+
+.row-button {
+  width: 150px;
+  height: 60px;
+  font-size: 20px;
+}
+
+.col-button {
+  width: 110px;
+  height: 65px;
+  font-size: 18px;
+}
+
+.allert-button {
+  width: 250px;
+  height: 80px;
+  border-radius: 10px;
+  border-width: 0;
+  font-size: 30px;
+  background: red;
+}

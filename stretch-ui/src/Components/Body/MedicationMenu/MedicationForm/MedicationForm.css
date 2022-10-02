@@ -1,0 +1,40 @@
+caption {
+  margin-top: -35px;
+}
+
+.medication-table {
+  height: 252px;
+  width: 10%;
+  border-collapse: collapse;
+  background-color: rgb(74, 178, 204, 0.7);
+  border-radius: 10px;
+}
+
+caption {
+  font-size: 30px;
+}
+
+th {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  width: 130px;
+}
+
+tr {
+  width: 520px;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
+}
+
+.content {
+  display: block;
+  height: 100%;
+  overflow-y: auto;
+}
+
+td {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
